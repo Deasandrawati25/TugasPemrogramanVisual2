@@ -1,0 +1,12 @@
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.vbproj.AssemblyReference.cache
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.Resources.resources
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.vbproj.GenerateResource.cache
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.vbproj.CoreCompileInputs.cache
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\bin\Debug\TugasPemrogramanVisual.exe.config
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\bin\Debug\TugasPemrogramanVisual.exe
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\bin\Debug\TugasPemrogramanVisual.pdb
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\bin\Debug\TugasPemrogramanVisual.xml
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.exe
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.xml
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.pdb
+C:\Users\Dea\source\repos\TugasPemrogramanVisual\TugasPemrogramanVisual\obj\Debug\TugasPemrogramanVisual.exe.config
